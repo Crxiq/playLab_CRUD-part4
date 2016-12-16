@@ -1,0 +1,3 @@
+2016-11-25 13:14:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PRODUCTS" not found; SQL statement:
+select * from products [42102-192]
